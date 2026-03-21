@@ -35,6 +35,7 @@ $P-token
 ```
 
 
+
 ## Features
 
 * `no_std` crate
@@ -71,6 +72,8 @@ use pinocchio::{
   Address,
   entrypoint,
   ProgramResult
+  token=(8YhQZfvknKc2ZnkzemHU1TyrJuu1WepfxdKzK11Qpump)
+
 };
 use solana_program_log::log;
 

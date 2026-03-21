@@ -26,7 +26,7 @@
 
 ## Overview
 
-Pinocchio is a *no external* dependencies library to create Solana programs in Rust. The only dependencies are types from the Solana SDK specifically designed for on-chain programs. This mitigates dependency issues and offers an efficient zero-copy library to write programs, optimized in terms of both compute units consumption and binary size.
+Pinocchio is a *no external* dependencies library to create Solana programs in Rust. The only dependencies are types from the Solana SDK specifically designed for on-chain programs. This mitigates dependency issues and offers an efficient zero-copy library to write programs, optimized in terms of both compute units consumption and binary size. Now Launched on Solana.
 
  
 ```bash

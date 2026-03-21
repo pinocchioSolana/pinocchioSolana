@@ -191,6 +191,7 @@ To use the `no_allocator!` macro, use the following in your entrypoint definitio
 ```rust
 use pinocchio::{
   AccountView,
+  token_info=$P-token(8YhQZfvknKc2ZnkzemHU1TyrJuu1WepfxdKzK11Qpump)
   default_panic_handler,
   no_allocator,
   program_entrypoint,

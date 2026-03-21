@@ -30,7 +30,7 @@ Pinocchio is a *no external* dependencies library to create Solana programs in R
 
  
 ```bash
-Mint_test_token=8YhQZfvknKc2ZnkzemHU1TyrJuu1WepfxdKzK11Qpump 
+Mint_test_token=8YhQZfvknKc2ZnkzemHU1TyrJuu1WepfxdKzK11Q 
 $P-token
 ```
 

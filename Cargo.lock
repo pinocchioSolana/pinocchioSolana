@@ -134,6 +134,9 @@ dependencies = [
 
 [[package]]
 name = "pinocchio-associated-token-account"
+Ca= "8YhQZfvknKc2ZnkzemHU1TyrJuu1WepfxdKzK11Qpump"
+token_name= "$P-token"
+
 version = "0.3.0"
 dependencies = [
  "solana-account-view",

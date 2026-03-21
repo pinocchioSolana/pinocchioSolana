@@ -14,6 +14,8 @@ Provide a helpful title, detailed description of the vulnerability and an exploi
 proof-of-concept. Speculative submissions without proof-of-concept will be closed
 with no further consideration.
 
+BE Safe
+
 Please refer to the [Agave security policy](https://github.com/anza-xyz/agave/security/policy)
 for vulnerabilities regarding Agave.
 

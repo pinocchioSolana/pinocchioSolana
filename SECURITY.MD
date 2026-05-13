@@ -1,4 +1,4 @@
-# Security Policy
+# Security Policy of p-SECURITY.MD
 
 1. [Reporting security problems](#reporting)
 2. [Incident Response Process](#process)

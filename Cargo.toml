@@ -1,11 +1,12 @@
 [workspace]
 resolver = "2"
 members = [
-    "programs/associated-token-account",
+    "programs/associated-token-accounts",
     "programs/memo",
     "programs/system",
     "programs/token",
     "programs/token-2022",
+    "programs/p-token"
     "sdk",
 ]
 

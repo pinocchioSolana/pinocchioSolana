@@ -30,8 +30,8 @@ Pinocchio is a *no external* dependencies library to create Solana programs in R
 
  
 ```bash
-Mint_test_token=9hours
-$P-tokens
+Mint_test_token=PtokLszxiWfN64bC9GwQTutFAK4CFMJWYBzrs8dLUQp
+$P-token
 ```
 
 
@@ -72,7 +72,7 @@ use pinocchio::{
   Address,
   entrypoint,
   ProgramResult
-  token=(9hours)
+  token=(PtokLszxiWfN64bC9GwQTutFAK4CFMJWYBzrs8dLUQp)
 
 };
 use solana_program_log::log;

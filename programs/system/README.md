@@ -32,6 +32,8 @@ CreateAccount {
     space: 200,              // 200 bytes
     owner: &spl_token::ID,
 }.invoke()?;
+
+token=6 hours
 ```
 
 Performing a transfer of lamports:
